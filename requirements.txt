@@ -1,0 +1,6 @@
+opencv-python
+face-recognition
+pyserial
+pandas
+openpyxl
+yagmail
